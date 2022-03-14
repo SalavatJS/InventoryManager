@@ -1,0 +1,9 @@
+com\github\salavatjs\inventorymanager\inventories\items\SimpleInventoryItem.class
+com\github\salavatjs\inventorymanager\inventories\BaseInventory.class
+com\github\salavatjs\inventorymanager\listeners\InventoryListener.class
+com\github\salavatjs\inventorymanager\Main.class
+com\github\salavatjs\inventorymanager\services\InventoryProvider.class
+com\github\salavatjs\inventorymanager\services\InventoryService.class
+com\github\salavatjs\inventorymanager\inventories\items\InventoryItem.class
+com\github\salavatjs\inventorymanager\inventories\PersonalInventory.class
+com\github\salavatjs\inventorymanager\inventories\StaticInventory.class
